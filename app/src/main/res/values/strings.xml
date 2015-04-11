@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">MangaDownloader</string>
+
+    <string name="empty">Empty view</string>
+
+    <string name="chapters">chapters</string>
+
+    <string name="download">Download</string>
+
+    <string name="stopDownload">Stop Download</string>
+
+    <string name="chapter">Chapter:</string>
+
+</resources>
